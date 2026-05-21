@@ -1,0 +1,13 @@
+{
+  "testrail": {
+    "url": "https://yourcompany.testrail.io",
+    "username": "your-email@example.com",
+    "apiKey": "your-api-key-here"
+  },
+  "projects": [
+    { "id": 1, "name": "ICE (Re-work)" },
+    { "id": 2, "name": "InGenius Connector Enterprise" }
+  ],
+  "excludedSuiteIds": [28929],
+  "outputFile": "coverage-report.html"
+}

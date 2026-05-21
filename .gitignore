@@ -1,0 +1,13 @@
+#For project design only
+*.pptx
+UI draft/
+
+#Config files are defined by the user
+config.json
+
+#Dependencies
+node_modules/
+
+#Generated output
+*.html
+

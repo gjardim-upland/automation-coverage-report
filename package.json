@@ -1,0 +1,12 @@
+{
+  "name": "testrail-coverage-report",
+  "version": "1.0.0",
+  "description": "Generates an HTML automation test coverage report from TestRail",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.16.1"
+  }
+}
