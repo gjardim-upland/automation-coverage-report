@@ -383,7 +383,7 @@ function generateReport(projects, testrailUrl, outputPath) {
   <!-- ===================== Projects page ===================== -->
   <div id="projects-page" class="page">
     <div class="container">
-      <h1>Projects</h1>
+      <h1>Upland Software - TestRail Projects</h1>
       ${projectBlocks}
       <p class="report-meta">Generated on ${esc(generatedAt)}</p>
     </div>
