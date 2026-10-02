@@ -49,12 +49,3 @@ The report is saved to `coverage-report.html` (or the path set in `outputFile`).
   - **Cannot be automated** — cases where `custom_has_been_automated = 3 (Cannot)`
   - Each test case ID links directly to the case in TestRail
 
-## Customization
-
-To change the custom field name or automation values, edit `src/dataFetcher.js`:
-
-```js
-const AUTOMATED_VALUE = 2;      // "Yes"
-const NOT_AUTOMATED_VALUE = 1;  // "No"
-const CANNOT_VALUE = 3;         // "Cannot"
-```
