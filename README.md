@@ -35,6 +35,7 @@ node index.js
 # or
 npm run generate
 ```
+or run the `generate-report.bat` file found in this repo
 
 The report is saved to `coverage-report.html` (or the path set in `outputFile`). Open it in any browser.
 
